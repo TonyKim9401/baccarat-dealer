@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/baccarat-dealer/static/css/main.bb7d44a0.css",
-    "main.js": "/baccarat-dealer/static/js/main.2acd9ff7.js",
+    "main.js": "/baccarat-dealer/static/js/main.698d0cda.js",
     "static/js/453.28bca3b7.chunk.js": "/baccarat-dealer/static/js/453.28bca3b7.chunk.js",
     "index.html": "/baccarat-dealer/index.html",
     "main.bb7d44a0.css.map": "/baccarat-dealer/static/css/main.bb7d44a0.css.map",
-    "main.2acd9ff7.js.map": "/baccarat-dealer/static/js/main.2acd9ff7.js.map",
+    "main.698d0cda.js.map": "/baccarat-dealer/static/js/main.698d0cda.js.map",
     "453.28bca3b7.chunk.js.map": "/baccarat-dealer/static/js/453.28bca3b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb7d44a0.css",
-    "static/js/main.2acd9ff7.js"
+    "static/js/main.698d0cda.js"
   ]
 }
